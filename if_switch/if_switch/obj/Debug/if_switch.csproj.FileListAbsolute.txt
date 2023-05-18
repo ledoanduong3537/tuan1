@@ -1,0 +1,8 @@
+D:\cs\if_switch\if_switch\bin\Debug\if_switch.exe.config
+D:\cs\if_switch\if_switch\bin\Debug\if_switch.exe
+D:\cs\if_switch\if_switch\bin\Debug\if_switch.pdb
+D:\cs\if_switch\if_switch\obj\Debug\if_switch.csproj.AssemblyReference.cache
+D:\cs\if_switch\if_switch\obj\Debug\if_switch.csproj.SuggestedBindingRedirects.cache
+D:\cs\if_switch\if_switch\obj\Debug\if_switch.csproj.CoreCompileInputs.cache
+D:\cs\if_switch\if_switch\obj\Debug\if_switch.exe
+D:\cs\if_switch\if_switch\obj\Debug\if_switch.pdb

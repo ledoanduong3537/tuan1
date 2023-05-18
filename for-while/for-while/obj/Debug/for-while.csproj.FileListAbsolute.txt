@@ -1,0 +1,8 @@
+D:\cs\for-while\for-while\bin\Debug\for-while.exe.config
+D:\cs\for-while\for-while\bin\Debug\for-while.exe
+D:\cs\for-while\for-while\bin\Debug\for-while.pdb
+D:\cs\for-while\for-while\obj\Debug\for-while.csproj.AssemblyReference.cache
+D:\cs\for-while\for-while\obj\Debug\for-while.csproj.SuggestedBindingRedirects.cache
+D:\cs\for-while\for-while\obj\Debug\for-while.csproj.CoreCompileInputs.cache
+D:\cs\for-while\for-while\obj\Debug\for-while.exe
+D:\cs\for-while\for-while\obj\Debug\for-while.pdb
